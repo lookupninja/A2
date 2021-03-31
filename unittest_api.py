@@ -1,6 +1,5 @@
-from group5_bot import app
+from flaskdemo import app
 import unittest
-import json
 
 class AppTest(unittest.TestCase):
     def test_response(self):
